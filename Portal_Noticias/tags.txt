@@ -1,0 +1,49 @@
+P: PARAGRAFO
+HR: UMA LINHA
+H1 a H5: TAMANHO DA FONTE EM ORDEM DECRESCENTE
+<i> : ITALICO
+<b> : NEGRITO
+<u> : SUBLINHADO
+<strong> : MAIOR ENFASE EM NEGRITO
+<img src="../img/image.jpg" /> : TAG DE IMAGEM 
+<meta> : FORNECE INFORMAÇÕES GERAIS SOBRE O DOC
+<meta charset = "iso8859-1" ou "UTF-8"/> : TAG DE CONDIÇÃO DO CARACTER
+<a> : CRIA UM LINK
+<li> : UM ITEM DA LISTA
+<ul> : UMA LISTA NAO ORDENADA
+<ol> : UMA LISTA ORDENADA
+
+
+background-color: green; /*COR DE FUNDO*/
+width: 500px; /*LARGURA*/
+height: 300px; /*ALTURA*/
+
+margin: O auto; /*CENTRALIZADA*/
+margin-top: 200px;/*MARGEM SUPERIO*/
+margin-left: 30px;/*MARGEM ESQUERDA*/
+margin-bottom: 10px;/*MARGEM INFERIOR*/
+margin-right: 20px;/*MARGEM DIREITA*/
+
+color: Black; /*COR DA FONTE*/
+text-align: justify; /* AlINHAMENTO DO TEXTO*/
+text-decoration:  /*SUBLINHADO*/
+font-family:Arial; /*TIPO DA FONTE*/
+font-size:24px; /*TAMANHO DA FONTE*/	
+font-style: Italic ; /*ESTILO DA FONTE*/
+font-weight: /*FONTE EM QUALQUER COR EM NEGRITO*/
+
+line-height:3px; /*TAMANHO DA ALTURA DE CADA LINHA*/
+letter-spacing:3px; /*TAMANHO DO ESPAÇO ENTRE CADA LETRA*/
+word-spacing: 5px; /*TAMANHO DO ESPAÇO ENTRE CADA PALAVRA*/
+text-indente: 30px; /*TAMANHO DA MARGEM DA PRIMEIRA LINHA DO TEXTO*/
+
+background-image:{background-image: url(../imagem/logo.jpg); /*IMAGEM NO TEXTO*/
+
+BODY { border-color: red; /*COR DA BORDA*/
+       border-style:solid; /*ESTILO DA BORDA*/
+       border-width:2px; /*LARGURA DA BORDA*/ }
+
+padding-top:10px; /*ESPAÇAMENTO INTERNO, DENTRO DA MARGEM- SUPERIOR*/
+padding-right:10px; /*### - DIREITA*/
+padding-left:10px; /*### - ESQUERDA*/
+padding-botton:10px; /*### - INFERIOR*/
